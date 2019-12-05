@@ -1,0 +1,47 @@
+[
+  {
+    "question": "\nWho is the current President of India?\n",
+    "options": "a:Ramnath Kovindh\nb:Narendra modi\nc:pranabh mukarji\nd:prathiba patil",
+    "answer": "a"
+  },
+  {
+    "question": "\nWhich country is hosting the 2019 South Asian Games?\n",
+    "options": "a:india\nb:nepal\nc:sri lanka\n,d:iran",
+    "answer": "b"
+  },
+  {
+    "question": "\nwhat is the capital of sri lanka?\n",
+    "options": "a:rangoon\nb:islamabad\nc:kathamandu\n,d:colombo",
+    "answer": "d"
+  },
+  {
+    "question": "\nsome months have 30 days,some months have 31 days but how many months have 28 days?\n",
+    "options": "a:eleven\nb:twelve\nc:one\n,d:two",
+    "answer": "b"
+  },
+  {
+    "question": "\nwhat is the value of 1+2+3+4-5+6+7+8+9+1.0\n",
+    "options": "a:46\nb:45\nc:34\n,d:36",
+    "answer": "d"
+  },
+  {
+    "question": "\nwCan you make SEVEN an even ?\n",
+    "options": "a:yes,possible\nb:no,impossible\nc:may be\n,d:don't know",
+    "answer": "b"
+  },
+  {
+    "question": "\nLittle Johny digs a hole that is 2 yards wide, 3 yards long, and 1 yard deep. How many cubic feet of dirt is in it?\n",
+    "options": "a:6\nb:5\nc:0\n,d:1",
+    "answer": "c"
+  },
+  {
+    "question": "\nwYou are in a dark room with a candle, a wood stove, and a gas lamp. If you only have 1 match, what do you light first?\n",
+    "options": "a:a candle\nb:the Match\nc:wood stove\n,d:gas lamp",
+    "answer": "b"
+  },
+  {
+    "question": "\nPut the objects in alphabetical order by the color of each 1) A black .10 mm Ballpoint pen 2)leaf 3) blood\n",
+    "options": "a:1,2,3\nb:2,3,1\nc:1,3,2\n,d:3,2,1",
+    "answer": "a"
+  }
+]
